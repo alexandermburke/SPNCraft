@@ -1,0 +1,16 @@
+[
+{
+  "modid": "SupernaturalCraft",
+  "name": "SupernaturalCraft",
+  "description": "A mod based off of the CW's Orignal show, Supernatural.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://spncraft.sterango.com",
+  "updateUrl": "",
+  "authors": ["PlatinumCreeper Mods"],
+  "credits": "Thank you Gateway5, XxPennyRayxX, Thorin234 and _Dibs",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
